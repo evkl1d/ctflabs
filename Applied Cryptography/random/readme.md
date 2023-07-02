@@ -1,0 +1,2 @@
+Random = secure, right?
+

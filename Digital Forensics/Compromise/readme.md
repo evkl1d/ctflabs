@@ -1,0 +1,2 @@
+One of our workstations was compromised, attacker tried pivoting through the network but ended up in machine used for security tests. Sadly initial access point was wiped and boot section overwritten. Nevertheless test machine was monitoring activity so we have everything that happened on it. A lot of data. Some files were encrypted, and some deleted. Can you piece the clues together? Flag is in format sikorsky{part1_part2_part3}.
+
